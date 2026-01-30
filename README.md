@@ -59,13 +59,13 @@ I'm a **web developer** with **10 years of experience** building both simple and
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=localnetwork&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Streak" width="52.4%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=babatuan-hash&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Streak" width="52.4%" />
     <img src="https://streak-stats.demolab.com?user=localnetwork&theme=gotham&hide_border=true" alt="GitHub Stats" width="45.6%" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=localnetwork&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="GitHub Activity Graph" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localnetwork&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&t4" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=babatuan-hash&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babatuan-hash&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&t4" alt="Top Languages" />
 </p>
 
 ---
