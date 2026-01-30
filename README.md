@@ -72,10 +72,3 @@ I'm a **web developer** with **10 years of experience** building both simple and
 
 ✅ **Always learning | Passionate about web development | Open to collaboration**
 
----
-
-<p align="center">
-  <a href="https://dio-ddev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Visit%20Now-268F77?style=flat-square&logo=google-chrome" alt="My Portfolio" />
-  </a>
-</p>
